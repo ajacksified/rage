@@ -9,4 +9,4 @@ Installation
 ------------
 
 In Chrome, choose Window > Extensions or go to chrome://extensions. Select Developer Mode.
-Chrome 63 is broken, so "load unpacked extension" and select the src folder. :sparkles:
+[Chrome 63 is broken](https://bugs.chromium.org/p/chromium/issues/detail?id=794219), so "load unpacked extension" and select the src folder. Someday we may just be able to drag Rage.crx. :sparkles:
